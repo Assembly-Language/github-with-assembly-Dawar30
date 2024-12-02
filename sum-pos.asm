@@ -14,7 +14,7 @@ array SWORD -10,4,-17,45,23,-33,21,30                      ;Declaration of array
 main proc 
 call clrscr
 mov eax,0                                                 
- mov esi,OFFSET array 
+ mov esi,OFFSET array
  mov ecx,lengthof array 
  
 next:
