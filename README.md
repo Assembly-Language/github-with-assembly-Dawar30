@@ -31,3 +31,5 @@ Then jump to display label to display results without executing the sum commands
 
 
 Overall remarks
+
+In these tasks we used the test command to sum positive ,even and odd numbers in array
